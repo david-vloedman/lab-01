@@ -1,0 +1,14 @@
+@import url(/css/reset.css); 
+@import url(/css/mobilelayout.css);
+@import url(/css/layout.css) screen and (min-width: 768px);
+
+
+
+p {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: center;
+}
+
+

@@ -1,0 +1,43 @@
+*{
+  background-color: lightgreen;
+}
+body{
+  width: 960px;
+  
+}
+#a{
+  width: 958px;
+  height: 98px;
+}
+
+#b{
+  float: left;
+  width: 198px;
+  height: 598px;
+
+}
+
+.upper{
+  width: 378px;
+  height: 198px;
+  float:left;   
+  
+}
+
+
+.middle{    
+  float: left;
+  width: 188px;
+  height: 248px;
+}
+
+#i{
+  float: left;
+  width: 758px;
+  height: 148px;
+}
+
+
+
+
+

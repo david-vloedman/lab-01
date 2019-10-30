@@ -3,7 +3,8 @@
 }
 body{
   width: 960px;
-  
+  margin-left: auto;
+  margin-right: auto;  
 }
 #a{
   width: 958px;

@@ -1,6 +1,8 @@
 *{
   background-color: gray;
+  border: 1px solid;
 }
+
 body{
   width: 480px;
   height: 767px;
@@ -29,13 +31,23 @@ body{
   height: 125px;
 }
 
+.flex-container{
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .middle{
-  float: left;
+ 
   width: 50%;
   height: 248px;
+  justify-content: center;
 }
+
+
+
 #i{
   clear: left;
   width: 480px;
   height: 80px;
 }
+

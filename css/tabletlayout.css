@@ -1,0 +1,10 @@
+* {
+  background-color: blue;
+}
+
+body {
+  width: 768px;
+  height: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+}
